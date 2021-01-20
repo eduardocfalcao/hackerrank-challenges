@@ -1,0 +1,13 @@
+C:\Users\Eduardo\source\repos\studies\hackerrank\common-child\bin\Debug\netcoreapp3.1\common-child.exe
+C:\Users\Eduardo\source\repos\studies\hackerrank\common-child\bin\Debug\netcoreapp3.1\common-child.deps.json
+C:\Users\Eduardo\source\repos\studies\hackerrank\common-child\bin\Debug\netcoreapp3.1\common-child.runtimeconfig.json
+C:\Users\Eduardo\source\repos\studies\hackerrank\common-child\bin\Debug\netcoreapp3.1\common-child.runtimeconfig.dev.json
+C:\Users\Eduardo\source\repos\studies\hackerrank\common-child\bin\Debug\netcoreapp3.1\common-child.dll
+C:\Users\Eduardo\source\repos\studies\hackerrank\common-child\bin\Debug\netcoreapp3.1\common-child.pdb
+C:\Users\Eduardo\source\repos\studies\hackerrank\common-child\obj\Debug\netcoreapp3.1\common-child.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\studies\hackerrank\common-child\obj\Debug\netcoreapp3.1\common-child.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\studies\hackerrank\common-child\obj\Debug\netcoreapp3.1\common-child.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\studies\hackerrank\common-child\obj\Debug\netcoreapp3.1\common-child.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\studies\hackerrank\common-child\obj\Debug\netcoreapp3.1\common-child.dll
+C:\Users\Eduardo\source\repos\studies\hackerrank\common-child\obj\Debug\netcoreapp3.1\common-child.pdb
+C:\Users\Eduardo\source\repos\studies\hackerrank\common-child\obj\Debug\netcoreapp3.1\common-child.genruntimeconfig.cache

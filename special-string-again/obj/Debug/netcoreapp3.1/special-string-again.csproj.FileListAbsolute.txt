@@ -1,0 +1,13 @@
+C:\Users\Eduardo\source\repos\studies\hackerrank\special-string-again\obj\Debug\netcoreapp3.1\special-string-again.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\studies\hackerrank\special-string-again\obj\Debug\netcoreapp3.1\special-string-again.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\studies\hackerrank\special-string-again\obj\Debug\netcoreapp3.1\special-string-again.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\studies\hackerrank\special-string-again\obj\Debug\netcoreapp3.1\special-string-again.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\studies\hackerrank\special-string-again\bin\Debug\netcoreapp3.1\special-string-again.exe
+C:\Users\Eduardo\source\repos\studies\hackerrank\special-string-again\bin\Debug\netcoreapp3.1\special-string-again.deps.json
+C:\Users\Eduardo\source\repos\studies\hackerrank\special-string-again\bin\Debug\netcoreapp3.1\special-string-again.runtimeconfig.json
+C:\Users\Eduardo\source\repos\studies\hackerrank\special-string-again\bin\Debug\netcoreapp3.1\special-string-again.runtimeconfig.dev.json
+C:\Users\Eduardo\source\repos\studies\hackerrank\special-string-again\bin\Debug\netcoreapp3.1\special-string-again.dll
+C:\Users\Eduardo\source\repos\studies\hackerrank\special-string-again\bin\Debug\netcoreapp3.1\special-string-again.pdb
+C:\Users\Eduardo\source\repos\studies\hackerrank\special-string-again\obj\Debug\netcoreapp3.1\special-string-again.dll
+C:\Users\Eduardo\source\repos\studies\hackerrank\special-string-again\obj\Debug\netcoreapp3.1\special-string-again.pdb
+C:\Users\Eduardo\source\repos\studies\hackerrank\special-string-again\obj\Debug\netcoreapp3.1\special-string-again.genruntimeconfig.cache

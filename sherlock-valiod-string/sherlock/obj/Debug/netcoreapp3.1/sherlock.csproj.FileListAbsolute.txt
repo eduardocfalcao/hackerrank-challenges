@@ -1,0 +1,13 @@
+C:\Users\Eduardo\source\repos\studies\hackerrank\sherlock-valiod-string\sherlock\bin\Debug\netcoreapp3.1\sherlock.exe
+C:\Users\Eduardo\source\repos\studies\hackerrank\sherlock-valiod-string\sherlock\bin\Debug\netcoreapp3.1\sherlock.deps.json
+C:\Users\Eduardo\source\repos\studies\hackerrank\sherlock-valiod-string\sherlock\bin\Debug\netcoreapp3.1\sherlock.runtimeconfig.json
+C:\Users\Eduardo\source\repos\studies\hackerrank\sherlock-valiod-string\sherlock\bin\Debug\netcoreapp3.1\sherlock.runtimeconfig.dev.json
+C:\Users\Eduardo\source\repos\studies\hackerrank\sherlock-valiod-string\sherlock\bin\Debug\netcoreapp3.1\sherlock.dll
+C:\Users\Eduardo\source\repos\studies\hackerrank\sherlock-valiod-string\sherlock\bin\Debug\netcoreapp3.1\sherlock.pdb
+C:\Users\Eduardo\source\repos\studies\hackerrank\sherlock-valiod-string\sherlock\obj\Debug\netcoreapp3.1\sherlock.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\studies\hackerrank\sherlock-valiod-string\sherlock\obj\Debug\netcoreapp3.1\sherlock.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\studies\hackerrank\sherlock-valiod-string\sherlock\obj\Debug\netcoreapp3.1\sherlock.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\studies\hackerrank\sherlock-valiod-string\sherlock\obj\Debug\netcoreapp3.1\sherlock.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\studies\hackerrank\sherlock-valiod-string\sherlock\obj\Debug\netcoreapp3.1\sherlock.dll
+C:\Users\Eduardo\source\repos\studies\hackerrank\sherlock-valiod-string\sherlock\obj\Debug\netcoreapp3.1\sherlock.pdb
+C:\Users\Eduardo\source\repos\studies\hackerrank\sherlock-valiod-string\sherlock\obj\Debug\netcoreapp3.1\sherlock.genruntimeconfig.cache
